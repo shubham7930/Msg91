@@ -27,7 +27,6 @@ Just add the "implementation 'com.github.shubham7930:msg91:1.1'" in your build.g
     dependencies {
     ...
     implementation 'com.github.shubham7930:msg91:1.1'
-    implementation 'com.android.volley:volley:1.1.1'
     ...
     }
 ------
